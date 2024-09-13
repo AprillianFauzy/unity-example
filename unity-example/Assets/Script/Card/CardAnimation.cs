@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CardAnimation : MonoBehaviour
@@ -73,4 +74,6 @@ public class CardAnimation : MonoBehaviour
             animationProgress = 0f; // Reset progres animasi
         }
     }
+    
+    
 }
